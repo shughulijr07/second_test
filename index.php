@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>VTe starter page</h3>
+    <h3>VTe starter</h3>
 </body>
 </html>
